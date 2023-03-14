@@ -1,0 +1,7 @@
+{
+  "names": {
+    "malzbar":"f1bd75cb328dd18038123eb8523038e4eeed4c55163e20dd424cfeecd58f204e"
+    }
+}
+_config.yml
+include: [".well-known"]
